@@ -67,6 +67,6 @@ Contributions are welcome! To contribute:
 
 For queries or suggestions, feel free to reach out:
 
-- **Name:** Zain Khan
-- **Email:** your-email@example.com
-- **GitHub:** your-username
+- **Name:** Muhammad Zain ul Abideen
+- **Email:** muhammadzainulabideen02@gmail.com
+- **GitHub:** MZain-ul-Abideen
